@@ -1,5 +1,5 @@
 # Data-Cleaning-Script
-Created a Python script to clean data automatically. 
+A Python script to clean data automatically. 
 
 Features/Functions of this script:
 - It will ask for datasets path and name
