@@ -1,6 +1,7 @@
 # Data-Cleaning-Script
 
 **Project Title**
+
 Data Cleaning Python Script
 
 **Project Description**
@@ -14,5 +15,6 @@ This Python script automates the data cleaning process by performing the followi
 The script is designed to work with CSV & xlsx files and makes the data preparation process efficient and reusable.
 
 **Tools and Technologies**
+
 Python: The programming language used.
 Libraries: Numpy, Pandas, openpyxl, Xlrd, OS
