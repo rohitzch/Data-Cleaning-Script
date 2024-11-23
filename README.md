@@ -1,10 +1,18 @@
 # Data-Cleaning-Script
-A Python script to clean data automatically. 
 
-Features/Functions of this script:
+**Project Title**
+Data Cleaning Python Script
+
+**Project Description**
+
+This Python script automates the data cleaning process by performing the following tasks:
 - It will ask for datasets path and name
-- it will check number of duplicates and remove all the duplicates 
-- it will keep a copy of all the duplicates
-- it will check for missing values 
-- if any column that is numeric it will replace nulls with mean else it will drop that rows
-- at end it will save the data as clean data and also returns duplicate records & clean_data 
+- Check and Removes duplicate records and saves them in a separate file for review.
+- Identifies and removes rows with missing values.
+- Outputs a cleaned dataset for further analysis.
+
+The script is designed to work with CSV & xlsx files and makes the data preparation process efficient and reusable.
+
+**Tools and Technologies**
+Python: The programming language used.
+Libraries: Numpy, Pandas, openpyxl, Xlrd, OS
